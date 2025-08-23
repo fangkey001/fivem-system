@@ -1,5 +1,5 @@
 import Cookies from "js-cookie";
-import { APP_CONFIG } from "@/app/configs";
+import { APP_CONFIG } from "@/shared/configs";
 import type {
   HttpAdapterOptions,
   HttpAdapterResponse,

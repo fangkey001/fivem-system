@@ -6,7 +6,7 @@ import type {
   AxiosResponse,
 } from "axios";
 import Cookies from "js-cookie";
-import { APP_CONFIG } from "@/app/configs";
+import { APP_CONFIG } from "@/shared/configs";
 import {
   CustomApiError,
   type ApiErrorResponse,
